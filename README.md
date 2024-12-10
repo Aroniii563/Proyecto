@@ -13,5 +13,6 @@ Aquí se alojará todo lo relacionado con el proyecto final del ciclo de ASIR.
 | Aaron               | Creación desde cero de la página web relacionada a una de las empresas. |
 
 ## Página web:
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 La página será realizada con el framework <b>Astro</b>, el cual permite crear y desplegar un sitio web de manera fácil y sencilla, y se alojará en un máquina Linux a través de <b>Nginx</b>.
