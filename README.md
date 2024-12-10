@@ -2,9 +2,9 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 Aquí se alojará todo lo relacionado con el proyecto final del ciclo de ASIR. 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Aroniii563/Proyecto/tree/main=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 ## Cargos:
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 | Nombre              | Cargo |
 |---------------------|-------|
